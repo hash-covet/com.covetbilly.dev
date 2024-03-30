@@ -1,7 +1,7 @@
 {
-    "version": "v2.0.0",
+    "version": "v2.1.0",
     "notes": "initial version",
-    "pub_date": "2023-03-22T19:25:57Z",
+    "pub_date": "2024-03-29T11:00:00Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "Content of app.tar.gz.sig",
@@ -12,8 +12,8 @@
         "url": "https://github.com/username/reponame/releases/download/v2.0.0/app-aarch64.app.tar.gz"
       },
       "linux-x86_64": {
-        "signature": "covet-billy_2.0.0_amd64.AppImage.tar.gz.sig",
-        "url": "https://github.com/hash-covet/com.covetbilly.dev/releases/download/v2.0.0/covet-billy_2.0.0_amd64.AppImage.tar.gz"
+        "signature": "covet-billy_2.1.0_amd64.AppImage.tar.gz.sig",
+        "url": "https://github.com/hash-covet/com.covetbilly.dev/releases/download/v2.1.0/covet-billy_2.1.0_amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
         "signature": "covetBilly_2.0.0_x64_en-US.msi.zip.sig",
