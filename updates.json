@@ -5,11 +5,11 @@
     "platforms": {
       "darwin-x86_64": {
         "signature": "Content of app.tar.gz.sig",
-        "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x86_64.app.tar.gz"
+        "url": "https://github.com/username/reponame/releases/download/v2.0.0/app-x86_64.app.tar.gz"
       },
       "darwin-aarch64": {
         "signature": "Content of app.tar.gz.sig",
-        "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
+        "url": "https://github.com/username/reponame/releases/download/v2.0.0/app-aarch64.app.tar.gz"
       },
       "linux-x86_64": {
         "signature": "covet-billy_2.0.0_amd64.AppImage.tar.gz.sig",
