@@ -12,7 +12,7 @@
         "url": "https://github.com/username/reponame/releases/download/v2.0.0/app-aarch64.app.tar.gz"
       },
       "linux-x86_64": {
-        "signature": "covet-billy_2.1.0_amd64.AppImage.tar.gz.sig",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcjNHeWRpcXg3VFZwd21FY2ZnU0kyekxJaXdpRVB1UHIxQWZoK293YVZtU3IwSWl1Q1pLYnIvbkYyZ1YrS0MzcFZNWDN5dXpWclhseGVVTnNIZGxZeGM3ODdydzdCb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExNzg4MjkxCWZpbGU6Y292ZXQtYmlsbHlfMi4xLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CktCb3pMeUk3UWx0RHNpdjUzWnJZZ3crRmFxbE00Qlk4bjRFNTVnVlFteUVBUDV4N3Q5U1IzMXZYbVFwY3Z3SUNrb01hVER3ekYweWMxdUUwQ2l5TUR3PT0K",
         "url": "https://github.com/hash-covet/com.covetbilly.dev/releases/download/v2.1.0/covet-billy_2.1.0_amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
